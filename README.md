@@ -1,22 +1,18 @@
-# Desyncer-Selfbot
-Selfbot Source code of Desyncer. Don't skid and just learn from it.-
+# Desyncer Selfbot
 
-Does it work?
-Yes and no, to avoid skids using my code I have made some errors and removed some code (such as the authentication system). Developers will be able to fix those, skids prob not. 
+## Overview
 
-Can I use it?
-Yes, license file is included. Feel free to use the source to LEARN from, if you distribute it I will open an official case with the authorities against you.
+Desyncer Selfbot was developed in 2019 by me (Systematic) and one of my friends (can't link his Github here). Desyncer is a Selfbot for the Discord Application which could be used to snipe nitro links, server invites, auto-join prizes etc. In addition, Desyncer has been developed for executing commands that are normally only suitable for Discord Bot Accounts, such as; sending embeds, spoofing links, automatically updating messages, automatically adjusting activity status, deleting messages after X number of minutes and much more...
 
-Is it skidded?
-No, I once skidded at the beginning but even that was to hard for me. So in August 2021 I fully rewrite the code to what it currently is.
+## The end of Desyncer
 
-Why is your English so bad?
-I don't know lol.
+Around June 2021 we decided it was time to stop the Desyncer project, it had around 200 users at that time and the project was mainly private available (access could be purchased for a few bucks). Because we did not want to let our users down, we made the source code public in this repo after taking our authentication server offline (however, certain functions, including some commands and the login/registration process, have been omitted)
 
-Why do you publish it?
-I made it for fun, not for the money. But since a few months I was out of ideas and didn't had fun coding it anymore so I think its time to release it as open-source.
+## Installation
 
+No documentation provided, but most of us that have some knowledge about Discord bots and Python in general will understand the installation of this bot (install what's needed, set your config and you're good to go)
 
-Love to everyone that bought it before!
+## Contact
 
-ONCE AGAIN, IF YOU'RE A SKID THEN GO AWAY AS MOST ERRORS YOU FIND ARE MADE BY ME, SO IF YOU ARE A REAL DEVELOPER YOU COULD EASILY FIX THEM.
+Any questions or issues? Contact me on Discord - sytematic01 or Sytematic#5031
+
